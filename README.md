@@ -7,7 +7,7 @@ An interactive web application for exploring Logistic Regression through configu
 Built with Python, Scikit-learn, Streamlit, NumPy, Pandas, and Matplotlib.
 
 
-
+live demo :[ https://logistic-regression-probabilistic-classifier-ee8jrihgmdnbygak3.streamlit.app/]
 ---
 
 ## Table of Contents
