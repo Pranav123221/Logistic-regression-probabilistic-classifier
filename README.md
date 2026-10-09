@@ -8,6 +8,13 @@ Built with Python, Scikit-learn, Streamlit, NumPy, Pandas, and Matplotlib.
 
 
 live demo :[ https://logistic-regression-probabilistic-classifier-ee8jrihgmdnbygak3.streamlit.app/]
+
+overview :
+
+<img width="1641" height="982" alt="Screenshot 2026-10-09 000004" src="https://github.com/user-attachments/assets/c3342fec-e518-463d-b500-2f8825caac84" />
+
+
+
 ---
 
 ## Table of Contents
